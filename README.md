@@ -1,1 +1,1 @@
-# -100DaysOfAIAndDataScience
+# 100DaysOfAIAndDataScience
