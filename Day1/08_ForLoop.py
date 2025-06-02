@@ -146,20 +146,20 @@ print(list2)
 # # print(newList)
 
 
-# list = ['Samay','Vedant','Sandeep','Shivam','Rohit']
+list = ['Samay','Vedant','Sandeep','Shivam','Rohit']
 
-# newList = [x for x in list if x != 'Sandeep']
+newList = [x for x in list if x != 'Sandeep']
 
-# list2 = [x for x in range(10) if x % 2 != 0]
+list2 = [x for x in range(10) if x % 2 != 0]
 
-# list3 = [x for x in list]
+list3 = [x for x in list]
 
-# list4 = ['Hello' for x in list if x != 'Hello']
+list4 = ['Hello' for x in list if x != 'Hello']
 
-# list5 = [x if x != 'Samay' else  'Sachin' for x in list]
+list5 = [x if x != 'Samay' else  'Sachin' for x in list]
 
-# print(list5)
+print(list5)
 
-# print(newList)
+print(newList)
 
 

@@ -28,12 +28,12 @@
 # # #     set.add(user_input)
 # # # print(set1)
 
-# # set = {'Samay','Vedant','Rohit','Samay'}
-# # set2 = {1,2,3,4,5,6,7,8,9,'Samay'}
+# set = {'Samay','Vedant','Rohit','Samay'}
+# set2 = {1,2,3,4,5,6,7,8,9,'Samay'}
 
-# x = {"apple", "banana", "cherry",'Samay','Vedant','Rohit'}
-# y = {"google", "microsoft", "apple"}
+x = {"apple", "banana", "cherry",'Samay','Vedant','Rohit'}
+y = {"google", "microsoft", "apple"}
 
-# x.intersection(y)
+x.intersection(y)
 
-# print(x)
+print(x)

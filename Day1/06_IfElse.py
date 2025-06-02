@@ -34,11 +34,11 @@
 #     else:
 #         print('Z Is greater...')
 
-# x = 20
-# y = 30
+x = 20
+y = 30
 
-# if not(x < y):
-#     print("X is Greater..")
-# else:
-#     print("Y is Greater...")
+if not(x < y):
+    print("X is Greater..")
+else:
+    print("Y is Greater...")
 
